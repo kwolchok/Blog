@@ -34,21 +34,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+  - icon: vk
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://vk.com/krstina01
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UCoeg7l-rPX5r-ogX23cv6EA
+  - icon: email
+    icon_pack: fab
+    link: https://mail.google.com/mail/u/0/#inbox
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/kwolchok
+  - icon: instagram
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https:https://www.instagram.com/kwolchok*
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -63,6 +63,6 @@ email: 'kwooolchok@gmai.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Родилась в Беларуси под руководством мамы и папы. С самых ранних лет занималась спортом и музыкой. Закончила гимназию с отличием и медалью. Являюсь побудительницей различных междунородных и национальных соревнований.Люблю собак больше жизни!
+Родилась в Беларуси под руководством мамы и папы. С самых ранних лет занималась спортом и музыкой. Закончила гимназию с отличием и медалью. Являюсь победительницей различных междунородных и национальных соревнований.Люблю собак больше жизни!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

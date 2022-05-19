@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
+  - description: 80%
+    icon: ":hand_over_mouth:"
+    icon_pack: emoji
+    name: дружелюбная
   - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
+    icon: ":sleeping:"	
+    icon_pack: emoji
+    name: люблю много спать
   - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    icon: ":partying_face:"
+    icon_pack: emoji
+    name: готова развеселить любого
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
