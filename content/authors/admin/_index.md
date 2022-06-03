@@ -18,7 +18,7 @@ bio: The average woman would rather have beauty than brains, because the average
 
 # Interests to show in About widget
 interests:
-  - Люблю спорт
+  - Люблю спорт 
   - Умею играть на чувствах и на трех инструментах
   - Безумно люблю четвероногих
 

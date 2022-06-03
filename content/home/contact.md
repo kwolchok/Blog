@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: Контакты
 subtitle:
 
 content:
@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: kwooolchok@gmail.com
+  phone: +79250957005
   address:
     street: 450 Serra Mall
     city: Stanford
@@ -41,16 +41,12 @@ content:
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+  appointment_url: 'https://vk.com/krstina01'
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: vk
+      link: 'https://vk.com/krstina01'
 
 design:
   columns: '2'
